@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+HOME=/root
+
+1 2 * * * /opt/backup.sh >> /opt/backup.log
