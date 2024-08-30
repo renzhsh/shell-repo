@@ -1,0 +1,5 @@
+
+####### Python Idea  ########
+.idea/
+.venv/
+__pycache__/
